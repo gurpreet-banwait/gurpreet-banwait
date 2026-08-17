@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 I am an undergraduate student at the University of Texas at Arlington pursuing a Bachelor of Science in Software Engineering. I work with a wide variety of programming languages after learning how to be adaptive to dynamic tech stacks.
 <!--
 **gurpreet-banwait/gurpreet-banwait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
